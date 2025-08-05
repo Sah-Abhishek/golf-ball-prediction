@@ -4,7 +4,7 @@ import GlowingButtons from "./GlowingButtons";
 
 const HeroSection = () => {
   return (
-    <section className="relative bg-black text-white py-20 px-6 md:px-10 flex flex-col md:flex-row items-center justify-between min-h-screen overflow-hidden">
+    <section className=" relative bg-black text-white py-20 px-6 md:px-10 flex flex-col md:flex-row items-center justify-between min-h-screen overflow-hidden">
       {/* Left: Text Content */}
       <div className="z-10 md:pl-16 bg-black max-w-3xl space-y-8 md:text-left text-center">
         <h1 className="text-9xl md:text-8xl font-extrabold leading-tight">

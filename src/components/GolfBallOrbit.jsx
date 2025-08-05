@@ -5,7 +5,7 @@ const GolfBallOrbit = () => {
     <div className="relative w-[600px] h-[600px] flex items-center justify-center mx-auto bg-black rounded-full overflow-hidden">
       {/* GOLF BALL */}
       <div className="z-10 rounded-full shadow-lg">
-        <img src="/golfball.png" alt="Golf Ball" className="animate-spin-slow h-48 w-48 object-contain" />
+        <img src="/golfball.png" alt="Golf Ball" className="animate-spin-slow  h-48 w-48 object-contain" />
       </div>
 
       {/* ORBIT RINGS */}
