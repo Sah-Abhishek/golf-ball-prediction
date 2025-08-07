@@ -39,7 +39,7 @@ const AboutSection = () => {
         {/* Bunker Avoidance */}
         <div className="relative rounded-xl overflow-hidden md:col-span-1 md:row-span-1">
           <img
-            src="https://images.unsplash.com/photo-1691256676376-357c3aa66c89?q=80&w=880&auto=format&fit=crop"
+            src="/phoneMockup.png"
             alt="Bunker Avoidance"
             className="w-full h-full object-cover"
           />
